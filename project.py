@@ -49,3 +49,6 @@ for epoch in range(num_epochs):
         optimizer.step()  
 
     print(f'Epoch [{epoch+1}/{num_epochs}], Loss: {loss.item():.4f}')
+
+print(12)
+
